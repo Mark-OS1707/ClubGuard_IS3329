@@ -16,6 +16,5 @@ def get_profile(club_id): # Getting the club profile
     else:
         raise ClubNotFoundError(f"No club profile found for '{club_id}'.")  # else raises an error from the class  above when club id isn't found
 
-
 def update_profile(club_id, changes): # Would update the club profile
         raise NotImplementedError("Editing the club profile is deferred in the prototype, that is for the target architecture.")
