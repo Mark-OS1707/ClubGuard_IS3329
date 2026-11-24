@@ -1,0 +1,23 @@
+{
+  "club_id": "westeros-rfc",
+  "club_name": "Westeros RFC",
+  "last_updated": "2026-09-01",
+  "officers": [{"name": "Jonny Walsh", "first_name": "Jonny", "role": "Chairperson",
+    "phone":  "082 252 4264", "email":  "jonnywalsher538127877@gmail.com"},
+    {"name": "Cormac Barry", "first_name": "Cormac", "role": "Secretary",
+    "phone":  "082 358 3568", "email":  "cormacbarry454545686777@gmail.com"},
+  {"name": "Leah Doherty", "first_name": "Leah", "role": "Treasurer",
+    "phone":  "082 999 8584", "email":  "leahnelsondoherty628274556@gmail.com"},
+  {"name": "Shane McGarry", "first_name": "Shane", "role": "Head Coach",
+    "phone":  "082 765 3562", "email":  "shaneyjamesmcgarry829186866@gmail.com"},
+  {"name": "Christine Murphy", "first_name": "Christine", "role": "Welfare officer",
+    "phone":  "082 488 6228", "email":  "murphychristine84585468778@gmail.com"},
+  {"name": "Alana Casey", "first_name": "Alana", "role": "Coaching officer",
+    "phone":  "082 525 8726", "email":  "alanaaaaamurphy72293855595@gmail.com"}],
+  "payment_rules": [
+    "Membership fees are only paid through the club's Foireann page.",
+    "The club's bank details are never changed by text, WhatsApp or email.",
+    "Any payment over 500 euro must be approved by two officers before it is sent."
+  ],
+  "official_payment_domains": ["foireann.ie"]
+}
