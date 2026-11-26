@@ -1,4 +1,4 @@
-from club_profile.service import get_profile
+from club_profile.club_profile_service import get_profile
 from rule_checker.checker import check_rules
 
 # Message claims to be from Jonny but comes from an unknown number

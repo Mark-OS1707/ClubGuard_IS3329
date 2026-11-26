@@ -1,4 +1,4 @@
-from club_profile.service import ClubNotFoundError, get_profile
+from club_profile.club_profile_service import ClubNotFoundError, get_profile
 
 def test_get_profile_return_the_officers_and_payment_conditions_used():
     profile = get_profile("westeros-rfc")

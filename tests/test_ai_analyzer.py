@@ -1,4 +1,4 @@
-from club_profile.service import get_profile # Load the club profile
+from club_profile.club_profile_service import get_profile # Load the club profile
 from ai_analyzer.analyzer import analyse, build_prompt, Bad_response_from_the_AI
 from ai_analyzer.llm_client import Mock, load_config
 
