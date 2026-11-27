@@ -1,0 +1,2 @@
+def send_alert(club_id, message):  # Would warn every club member about a reported scam
+    raise NotImplementedError("Scam alerts are deferred in the prototype. That is for the target architecture.") # Deferred as mentioned in D1
